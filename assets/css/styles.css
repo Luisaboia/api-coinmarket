@@ -1,0 +1,9 @@
+section{
+  text-align: center;
+}
+
+#coins{
+  background-color: #cccccc;
+  border-radius: 2rem;
+  padding: 2rem 8rem;
+}
